@@ -1,5 +1,5 @@
 # Health Insurance Premium Prediction
-![image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kXLixIx8LXvLJUUc07bBeg.jpeg)
+
 
 The amount of the premium for a health insurance policy depends from person to person, as many factors affect the amount of the premium for a health insurance policy. Let’s say age, a young person is very less likely to have major health problems compared to an older person. Thus, treating an older person will be expensive compared to a young one. That is why an older person is required to pay a high premium compared to a young person.
 
