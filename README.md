@@ -54,7 +54,6 @@ Before we run the project, make sure that you are having MongoDB in your local s
 ![image](https://user-images.githubusercontent.com/102937478/216771378-4990ae29-e5c2-44df-9af4-abb1724e26b5.png)
 
 ## Home page
-![image](https://github.com/dharavathramdas101/Machine-Learning-Algorithms/blob/main/insurence_data/2023-03-01%20(2).png)
 
 ### Step 1 - Install the requirements
 
